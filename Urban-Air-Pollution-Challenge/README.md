@@ -1,4 +1,5 @@
 # Urban Air Pollution Challenge by #ZindiWeekendz
+![image](https://user-images.githubusercontent.com/37707687/79140104-1a3e0680-7dd5-11ea-937a-dc060ac089cc.png)
 Can you predict air quality in cities around the world using satellite data?
 
 You may have seen recent news articles stating that air quality has improved due to COVID-19. This is true for some locations, but as always the truth is a little more complicated. In parts of many African cities, air quality seems to be getting worse as more people stay at home. For this challenge we’ll be digging deeper into the data, finding ways to track air quality and how it is changing, even in places without ground-based sensors. This information will be especially useful in the face of the current crisis, since poor air quality makes a respiratory disease like COVID-19 more dangerous.
