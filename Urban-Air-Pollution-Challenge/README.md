@@ -23,10 +23,5 @@ Unfortunately, this data is not 100% complete. Some locations have no sensor rea
 
 `Sentinel 5P data:` https://developers.google.com/earth-engine/datasets/catalog/sentinel-5p - all columns begin with the dataset name (eg L3_NO2 corresponds to https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2) - look at the corresponding dataset on GEE for detailed descriptions of the image bands - band names should match the second half of the column titles.
 
-## Files available for download:
-
-`Train.csv` - contains the target and supporting data for 349 locations. This is the dataset that you will use to train your model.
-
-`Test.csv`- resembles Train.csv but without the target-related columns, and covers 179 different locations.This is the dataset on which you will apply your model to.
-
-`SampleSubmission.csv` - shows the submission format for this competition, with the ‘Place_ID X Date’ column mirroring that of Test.csv and the ‘target’ column containing your predictions. The order of the rows does not matter, but the names of the Place_ID X Date must be correct.
+## Leaderboard
+[Private LB](https://zindi.africa/hackathons/urban-air-pollution-challenge/leaderboard): 7 out of 126
