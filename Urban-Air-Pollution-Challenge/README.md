@@ -1,4 +1,4 @@
-# Urban Air Pollution Challenge by #ZindiWeekendz
+# [Urban Air Pollution Challenge by #ZindiWeekendz](https://zindi.africa/hackathons/urban-air-pollution-challenge)
 ![image](https://user-images.githubusercontent.com/37707687/79140104-1a3e0680-7dd5-11ea-937a-dc060ac089cc.png)
 Can you predict air quality in cities around the world using satellite data?
 
