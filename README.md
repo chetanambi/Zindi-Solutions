@@ -1,1 +1,4 @@
-# Zindi-Solutions
+# Zindi Hackathons
+
+
+# Zindi Competitions
