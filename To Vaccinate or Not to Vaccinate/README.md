@@ -23,4 +23,4 @@ The objective of this challenge is to develop a machine learning model to assess
 * SampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the ID must be correct. Values in the 'label' column should range between -1 and 1.
 
 ## Leaderboard
-TBD
+[Private LB](https://zindi.africa/hackathons/to-vaccinate-or-not-to-vaccinate-its-not-a-question/leaderboard): Ranked 10 out of 131
