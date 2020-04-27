@@ -1,4 +1,5 @@
 # To Vaccinate or Not to Vaccinate
+![image](https://user-images.githubusercontent.com/37707687/80328834-2a86c480-885e-11ea-8b47-1602eb7e2383.png)
 
 Work has already begun towards developing a COVID-19 vaccine. From measles to the common flu, vaccines have lowered the risk of illness and death, and have saved countless lives around the world. Unfortunately in some countries, the 'anti-vaxxer' movement has led to lower rates of vaccination and new outbreaks of old diseases.
 
@@ -20,3 +21,6 @@ The objective of this challenge is to develop a machine learning model to assess
 * Train.csv - Labelled tweets on which to train your model
 * Test.csv - Tweets that you must classify using your trained model
 * SampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the ID must be correct. Values in the 'label' column should range between -1 and 1.
+
+## Leaderboard
+TBD
