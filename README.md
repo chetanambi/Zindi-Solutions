@@ -4,11 +4,6 @@ Zindi works with companies, non-profit organizations, and government institution
 
 For data scientists, from newbies to rock stars, Zindi is a place to access African datasets and solve African problems. Data scientists will find all the tools they need on Zindi to compete, share ideas, hone their skills, build their professional profiles, find career opportunities, and have fun!
 
-Who are we?
-Zindi is a social enterprise whose mission is to build the data science ecosystem in Africa. Our vision is for a vibrant community of data scientists across Africa, mobilized towards solving the region’s most pressing problems.
-
-We are a team of data scientists and creators based in Cape Town, Johannesburg, and Accra committed to a better Africa
-
 # Zindi Hackathons
 
 * [To Vaccinate or Not to Vaccinate](https://github.com/chetanambi/Zindi-Solutions/tree/master/To%20Vaccinate%20or%20Not%20to%20Vaccinate)
