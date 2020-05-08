@@ -19,4 +19,4 @@ The files you have for download here are:
 `sample_submission.csv`: is an example of what your submission file should look like, including a list of unique image IDs. Your submission file should have all of the Image IDs in this file along with estimates of the corresponding probabilities of observing a person with a mask.
 
 ## Leaderboard
-Ranked 12 out of 147
+12th / 147
