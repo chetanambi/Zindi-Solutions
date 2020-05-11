@@ -6,6 +6,7 @@ For data scientists, from newbies to rock stars, Zindi is a place to access Afri
 
 # Zindi Hackathons
 
+* [COVID-19 Tweet Classification Challenge](https://github.com/chetanambi/Zindi-Solutions/tree/master/COVID-19%20Tweet%20Classification%20Challenge)
 * [To Vaccinate or Not to Vaccinate](https://github.com/chetanambi/Zindi-Solutions/tree/master/To%20Vaccinate%20or%20Not%20to%20Vaccinate)
 * [Spot the Mask Challenge](https://github.com/chetanambi/Zindi-Solutions/tree/master/Spot%20the%20Mask%20Challenge)
 * [Urban-Air-Pollution-Challenge](https://github.com/chetanambi/Zindi-Solutions/tree/master/Urban-Air-Pollution-Challenge)
