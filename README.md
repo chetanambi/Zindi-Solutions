@@ -12,4 +12,4 @@ For data scientists, from newbies to rock stars, Zindi is a place to access Afri
 * [Urban-Air-Pollution-Challenge](https://github.com/chetanambi/Zindi-Solutions/tree/master/Urban-Air-Pollution-Challenge)
 
 # Zindi Competitions
-* [AirQo Ugandan Air Quality Forecast Challenge]
+* [AirQo Ugandan Air Quality Forecast Challenge](https://github.com/chetanambi/Zindi-Solutions/tree/master/AirQo%20Ugandan%20Air%20Quality%20Forecast%20Challenge)
